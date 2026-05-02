@@ -1,0 +1,10 @@
+{
+  "app": {
+    "name": "My API",
+    "port": 3000
+  },
+  "ai": {
+    "provider": "openai",
+    "model": "gpt-4o-mini"
+  }
+}
